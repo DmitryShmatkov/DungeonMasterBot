@@ -1,0 +1,13 @@
+{
+  "name": "DungeonMaster",
+  "version": "1.0.0",
+  "description": "DungeonMaster bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "CapitalDee",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
