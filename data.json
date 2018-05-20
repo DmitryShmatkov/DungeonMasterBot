@@ -4,11 +4,6 @@ data = '[{
   "description": "A group of ninjas attack!",
   "text": "Suddenly, a group of ninjas pop out of the shadows, and attack you!",
   "author": "CapitalDee",
-  "tags": {
-    "urban",
-    "ninja",
-    "enemy",
-    "combat",
-    "ambush"
+  "tags": ["urban", "ninja"]
   }
 }]';
